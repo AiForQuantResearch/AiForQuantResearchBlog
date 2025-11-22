@@ -2,3 +2,6 @@ contentTypes:
   paper:
     en: Paper
     fr: Paper
+  code:
+    en: Code
+    fr: Code
