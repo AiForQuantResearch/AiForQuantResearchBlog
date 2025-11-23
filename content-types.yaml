@@ -1,7 +1,10 @@
 contentTypes:
   paper:
-    en: Paper
-    fr: Paper
+    en: Academic Paper
+    fr: Academic Paper
   code:
     en: Code
     fr: Code
+  research-paper:
+    en: Research Paper
+    fr: Research Paper
