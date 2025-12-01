@@ -8,3 +8,6 @@ contentTypes:
   research-paper:
     en: Research Paper
     fr: Research Paper
+  factsheet:
+    en: ' Factsheet'
+    fr: Factsheet
